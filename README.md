@@ -1,6 +1,8 @@
 # GUI-Calculator
 
 A GUI Calculator made in Python using Tkinter library.
+
+
 ![Calculator Screenshot](https://github.com/Param302/GUI-Calculator/blob/main/previews/big%201.jpg)
 
 ## Prerequisites
