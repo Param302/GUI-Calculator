@@ -18,7 +18,7 @@ https://github.com/Param302/GUI-Calculator.git
 
 #### Download .exe file from [here](https://github.com/Param302/GUI-Calculator/raw/main/Calculator.exe) or click on below link:
 https://github.com/Param302/GUI-Calculator/raw/main/Calculator.exe
-- Make Sure to download [cal_icon_2.ico](https://github.com/Param302/GUI-Calculator/blob/main/cal_icon_2.ico) file in the same directory at where Calculator.exe is downloaded.
+- Make Sure to download [cal_icon_2.ico](https://github.com/Param302/GUI-Calculator/raw/main/cal_icon_2.ico) file in the same directory at where Calculator.exe is downloaded.
 
 
 ## Screenshots
